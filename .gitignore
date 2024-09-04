@@ -1,5 +1,4 @@
-cypress.config.js
-cypress/support/ContentServer/beforeEachContentServer.js
+
 
 # Logs
 logs
@@ -28,6 +27,6 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
-cypress/videos
-cypress/screenshots
+cypress.config.js
+cypress/support/ContentServer/beforeEachContentServer.js
 js/*.js
