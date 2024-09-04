@@ -1,5 +1,5 @@
-cypress.config.js
-cypress/support/ContentServer/beforeEachContentServer.js
+/cypress.config.js
+/cypress/support/ContentServer/beforeEachContentServer.js
 
 # Logs
 logs
