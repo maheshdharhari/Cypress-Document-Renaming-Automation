@@ -1,3 +1,6 @@
+cypress.config.js
+cypress/support/ContentServer/beforeEachContentServer.js
+
 # Logs
 logs
 *.log
