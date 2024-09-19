@@ -13,7 +13,7 @@
   ],
   "author": "Mahesh Kumar Yadav",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^13.14.1"
+  "devDependencies": {
+    "cypress": "^13.14.2"
   }
 }
