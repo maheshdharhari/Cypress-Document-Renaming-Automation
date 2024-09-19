@@ -42,7 +42,7 @@ Cypress-Document-Renaming-Automation/
 ├── cypress/
 │     ├── e2e/
 │     │    └── ContentServer
-│	  │			└── renameContainer.cy.js
+│ │			└── renameContainer.cy.js
 │     └── support/
 │          ├── e2e.js
 │          └── ContentServer
