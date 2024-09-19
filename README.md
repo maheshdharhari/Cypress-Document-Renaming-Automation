@@ -12,7 +12,6 @@ This project demonstrates how to automate the process of renaming documents in a
 - [Custom Commands](#custom-commands)
 - [Running Tests](#running-tests)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
