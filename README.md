@@ -2,7 +2,7 @@
 
 This project demonstrates how to automate the process of renaming documents in a Content Server application using Cypress, an end-to-end testing framework. The setup includes custom commands and a structured test suite to efficiently perform document renaming.
 
-![Running Automation](https://res.cloudinary.com/maheshdharhari/image/upload/v1726731856/Blog/contentServerRenamingCypress.png)
+![Running Automation](https://res.cloudinary.com/maheshdharhari/image/upload/v1726732988/Blog/contentServerRenamingCypress.png)
 
 ## Table of Contents
 
