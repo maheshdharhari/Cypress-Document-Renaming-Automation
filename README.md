@@ -56,7 +56,6 @@ Cypress-Document-Renaming-Automation/
 └── package.json
 ```
 
-- **cypress/integration/**: Contains the test files.
 - **cypress/support/**: Contains custom commands and global configurations.
 - **cypress.config.js**: Configuration file for Cypress.
 
