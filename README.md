@@ -1,4 +1,3 @@
-```markdown
 # Cypress Document Renaming Automation
 
 This project demonstrates how to automate the process of renaming documents in a Content Server application using Cypress, an end-to-end testing framework. The setup includes custom commands and a structured test suite to efficiently perform document renaming.
