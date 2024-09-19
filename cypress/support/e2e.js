@@ -15,7 +15,7 @@
 
 
 // Import commands.js using ES2015 syntax:
-import './ContentServer/contentSeverLoginCommand.js'
+import './ContentServer/contentServerLoginCommand.js'
 import './ContentServer/beforeEachContentServer.js'
 
 
